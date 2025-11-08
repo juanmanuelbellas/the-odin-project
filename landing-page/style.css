@@ -1,0 +1,9 @@
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+.logo-image {
+    height: 50px;
+    width: auto;
+}
